@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react";
 import { ReactTyped } from "react-typed";
 import { Link } from "react-router-dom";
 import ProgramOutline from "./ProgramOutline";
